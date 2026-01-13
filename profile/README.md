@@ -15,8 +15,8 @@ We are currently developing **Construction-VLA**, a foundation model capable of 
 
 ## 🤝 Join the Mission
 
-* [View Open Roles](#) *(Link to your careers page)*
-* [Contact Us](#) *(Link to email or contact form)*
+* [View Open Roles](#) 
+* [Contact Us](#) 
 
 <div align="center">
   <sub>Building the future, one autonomous action at a time.</sub>
