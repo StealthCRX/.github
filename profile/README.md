@@ -4,5 +4,3 @@
 
 ## Current Focus: VLA for Unstructured Environments
 
-### Key Challenges We Solve:
-*
