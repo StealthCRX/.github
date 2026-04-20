@@ -1,6 +1,6 @@
 # StealthCRX
 
-We're building AI systems that operate in the physical world. Unstructured environments, real construction sites, hardware that has to work when conditions don't cooperate. We're a small, experienced team and we're moving fast. Stealth for now.
+We're building AI systems that operate in the physical world. Unstructured environments, real sites, hardware that has to work when conditions don't cooperate. We're a small, experienced team and we're moving fast. Stealth for now.
 
 ---
 
